@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37861
     wikipedia: http://en.wikipedia.org/wiki/Brand_Whitlock
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40398#The-Turn-of-the-Balance
 gutenberg_issued: '2013-02-19'
 gutenberg_type: Text
 identifiers:
