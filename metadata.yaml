@@ -1,0 +1,36 @@
+_repo: The-Turn-of-the-Balance_40398
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hambidge, Jay
+    birthdate: 1867
+    deathdate: 1924
+    gutenberg_agent_id: '24849'
+    url: http://www.gutenberg.org/2009/agents/24849
+covers:
+- cover_type: archival
+  image_path: 40398-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Whitlock, Brand
+    birthdate: 1869
+    deathdate: 1934
+    gutenberg_agent_id: '37861'
+    url: http://www.gutenberg.org/2009/agents/37861
+    wikipedia: http://en.wikipedia.org/wiki/Brand_Whitlock
+description: ''
+gutenberg_issued: '2013-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40398'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Social problems -- Fiction'
+- !lcsh 'United States -- Social conditions -- 1865-1918 -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Criminals -- Fiction'
+title: The Turn of the Balance
+url: http://www.gutenberg.org/ebooks/40398
